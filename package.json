@@ -1,0 +1,19 @@
+{
+  "name": "solana-nft-registry",
+  "version": "0.0.1",
+  "description": "Solana NFT Registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moshimoshi-labs/solana-nft-registry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moshimoshi-labs/solana-nft-registry/issues"
+  },
+  "homepage": "https://github.com/moshimoshi-labs/solana-nft-registry#readme"
+}
